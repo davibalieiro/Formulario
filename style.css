@@ -1,0 +1,47 @@
+* {
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+}
+.container {
+
+  margin: 0 auto;
+  width: 600px;
+  background-color: rgb(35, 90, 255);
+  text-align: center;
+  border: 6px solid rgb(0, 0, 0);
+  border-radius: 6px;
+}
+h1 {
+  color: #000;
+}
+.nav {
+  background-color: rgb(11, 161, 255);
+  padding: 15px;
+  color: #fff;
+}
+header{
+  padding: 50px;
+}
+header a {
+  margin: 30px;
+  padding: 20px;
+  text-decoration: none;
+}
+a {
+  color: #fff;
+}
+header a:hover {
+  color: darkcyan;
+}
+header p {
+  padding: 10px;
+}
+header img {
+  margin-top: 10px;
+}
+.rodape {
+  padding: 30px;
+  
+  background-color: rgb(11, 161, 255);
+}
